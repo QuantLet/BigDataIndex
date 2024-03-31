@@ -1,0 +1,11 @@
+Name of QuantLet : 'BigDataIndex'
+
+Published in : 'QuantLet' 
+
+Description : 'A method to generate BigDataIndex and relate it with trade data.'
+
+Keywords : 'NLP , BigData'
+
+Author : 'Xiaorui ZUO'
+
+Submitted : Mon, Apr 1 2024
